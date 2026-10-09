@@ -76,3 +76,5 @@ The paid kit has the other nine posts, a voice guide, a visual spec, a twelve-we
 ## Licence and credits
 
 The sample is [CC BY 4.0](LICENSE): use it and adapt it, with credit. The frameworks and standards in `sources/SOURCES.md` belong to their publishers (NIST, ISO/IEC, OWASP, MITRE, CISA, NCSC, the EU) and are linked, not copied.
+
+If this is useful to you, [buy me a coffee](https://buymeacoffee.com/iamc_tech) ☕
